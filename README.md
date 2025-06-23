@@ -6,7 +6,7 @@ This repository contains Excel-based dashboard projects showcasing data visualiz
 
 ## 🟦 Adidas US Sales Dashboard
 
-![Adidas US Sales Dashboard](Adidas.PNG)
+![Adidas US Sales Dashboard](image_2025-06-23_172757633.png)
 
 **Overview:**  
 An interactive dashboard built in Excel to analyze Adidas sales across regions, products, and sales methods.  
